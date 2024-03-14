@@ -4,6 +4,7 @@
   justify-content: space-around;
 }
 .dflex{
+
   display: flex;
 gap: 3rem;
 text-decoration: none;
